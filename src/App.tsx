@@ -18,7 +18,7 @@ const initialLinks: SocialLink[] = [
 const song: Song = {
   title: "Big Shein",
   artist: "MC Negão Original",
-  url: "https://gofile.io/d/aGG8If"
+  url: "https://file.garden/aDNsMMyYJVC98rw8/bigshein.mp3"
 };
 
 function App() {
