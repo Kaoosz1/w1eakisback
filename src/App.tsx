@@ -62,7 +62,7 @@ function App() {
       <div className="bg-black/40 backdrop-blur-md p-8 rounded-2xl flex flex-col items-center">
         <div className="w-24 h-24 rounded-full overflow-hidden mb-6">
           <img
-            src="https://cdn.discordapp.com/attachments/1375857331673370718/1375857362581323917/download.jpg?ex=68392545&is=6837d3c5&hm=1ab878a156bfde04de5a32bd77e4bc63142e9ffca9e640cb2cc1bc3e4585397d&"
+            src="https://cdn.discordapp.com/attachments/1375857331673370718/1375857362581323917/download.jpg?ex=683a76c5&is=68392545&hm=a7b1cd1d9cf97e389ac104267abda14268dc83334fc57e32cd90452687e856a1&"
             alt="Profile"
             className="w-full h-full object-cover"
           />
