@@ -32,7 +32,7 @@ function App() {
 
   const backgroundStyle = showBackground
     ? {
-        backgroundImage: 'url(https://cdn.discordapp.com/attachments/1375857331673370718/1375858620943695954/byknw5.png?ex=683e6c71&is=683d1af1&hm=a022cc2eeb52352a9383b9df110cd3333dc5a5c8a5be86c056b00c3337627050&)', // aq muda o fundo
+        backgroundImage: 'url(https://cdn.discordapp.com/attachments/1375857331673370718/1375858620943695954/byknw5.png?ex=684066b1&is=683f1531&hm=148680795fd39200380fa0d23beb0c2c2a297e535bb297a240b894985dd47277&)', // aq muda o fundo
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -62,7 +62,7 @@ function App() {
       <div className="bg-black/40 backdrop-blur-md p-8 rounded-2xl flex flex-col items-center">
         <div className="w-24 h-24 rounded-full overflow-hidden mb-6">
           <img
-            src="https://cdn.discordapp.com/attachments/1375857331673370718/1375857362581323917/download.jpg?ex=683e6b45&is=683d19c5&hm=a0af6bd81696eb5de9d3c7761a2c4a23b92cc6e33bfff7d614ed552265282921&"
+            src="https://cdn.discordapp.com/attachments/1375857331673370718/1375857362581323917/download.jpg?ex=68406585&is=683f1405&hm=a7670911d989307dc432729a828f70e4c45cfe125e6ef945ad1ec23dc8e7f00c&"
             alt="Profile"
             className="w-full h-full object-cover"
           />
