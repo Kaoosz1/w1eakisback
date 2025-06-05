@@ -16,8 +16,8 @@ const initialLinks: SocialLink[] = [
   ];
 
 const song: Song = {
-  title: "Big Shein",
-  artist: "MC Negão Original",
+  title: "VOU METER O LOUCO EM VOCÊ",
+  artist: "MC SAPINHA",
   url: "https://file.garden/aDNsMMyYJVC98rw8/Vibe%20Do%20Bem_7505077015368797446.mp3"
 };
 
