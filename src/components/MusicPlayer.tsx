@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import type { Song } from '../types';
 
 interface MusicPlayerProps {
@@ -19,21 +19,6 @@ export default function MusicPlayer({ song }: MusicPlayerProps) {
       setIsPlaying(!isPlaying);
     }
   };
-
-  // Autoplay ao montar
-  useEffect(() => {
-    const playAudio = async () => {
-      if (audioRef.current) {
-        try {
-          await audioRef.current.play();
-          setIsPlaying(true);
-        } catch (err) {
-          console.warn('Autoplay falhou:', err);
-        }
-      }
-    };
-    playAudio();
-  }, []);
 
   return (
     <div className="fixed bottom-8 right-8 bg-transparent text-white flex items-center gap-4">
