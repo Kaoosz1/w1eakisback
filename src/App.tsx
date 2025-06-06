@@ -32,7 +32,7 @@ function App() {
 
   const backgroundStyle = showBackground
     ? {
-        backgroundImage: 'url(https://cdn.discordapp.com/attachments/1375857331673370718/1379994360766267504/1fd628069e52d2384f5c5854615e1809_1_1.jpg?ex=68424366&is=6840f1e6&hm=b229cefa0f2cb3b2ad715cf34551109633dd27d5f338566e67b041f30e9bf1e6&)', // aq muda o fundo
+        backgroundImage: 'url(https://cdn.discordapp.com/attachments/1375857331673370718/1379994360766267504/1fd628069e52d2384f5c5854615e1809_1_1.jpg?ex=684394e6&is=68424366&hm=d2c2478a0e595d5ea3bf3808d1c895fb6ff79247c833e2d76e7b5923da007379&)', // aq muda o fundo
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
