@@ -25,7 +25,7 @@ export default function MusicPlayer({ song }: MusicPlayerProps) {
       <div className="flex items-center gap-2">
         <div className="w-10 h-10 rounded-full bg-white overflow-hidden">
           <img
-            src="https://cdn.discordapp.com/attachments/1375857331673370718/1379997658252578885/image.png?ex=684397f8&is=68424678&hm=3420ffcdb72a7b836cd02c15ca2ef20250531a10274c12db8cedbdc4e8304a3c&"
+            src="https://cdn.discordapp.com/attachments/1375857331673370718/1379997658252578885/image.png?ex=6844e978&is=684397f8&hm=7171007b54464d36ecfa769d64311de9cbd72ec0b7a18f61b8922b6407b821fa&"
             alt="Album Cover"
             className="w-full h-full object-cover"
           />
