@@ -32,7 +32,7 @@ function App() {
 
   const backgroundStyle = showBackground
     ? {
-        backgroundImage: 'url(https://cdn.discordapp.com/attachments/1375857331673370718/1379994360766267504/1fd628069e52d2384f5c5854615e1809_1_1.jpg?ex=684394e6&is=68424366&hm=d2c2478a0e595d5ea3bf3808d1c895fb6ff79247c833e2d76e7b5923da007379&)', // aq muda o fundo
+        backgroundImage: 'url(https://cdn.discordapp.com/attachments/1375857331673370718/1379994360766267504/1fd628069e52d2384f5c5854615e1809_1_1.jpg?ex=6844e666&is=684394e6&hm=24f7c08bae3be68a54d402a9f0b69e30e4bb70798cf99b2d9ca5b84b366a2993&)', // aq muda o fundo
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -62,7 +62,7 @@ function App() {
       <div className="bg-black/40 backdrop-blur-md p-8 rounded-2xl flex flex-col items-center">
         <div className="w-24 h-24 rounded-full overflow-hidden mb-6">
           <img
-            src="https://cdn.discordapp.com/attachments/1375857331673370718/1379996922160484492/transferir.jfif_1.jpg?ex=68439749&is=684245c9&hm=ac1408f02837666509948e51a9b1dfa56ceeefd6f0f6c6757c9fd205bcec57de&"
+            src="https://cdn.discordapp.com/attachments/1375857331673370718/1379996922160484492/transferir.jfif_1.jpg?ex=6844e8c9&is=68439749&hm=559b50049bc96e5e0ed9be7812803f51cfde909deb37c4ed403a8b1283e5060e&"
             alt="Profile"
             className="w-full h-full object-cover"
           />
