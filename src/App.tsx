@@ -62,7 +62,7 @@ function App() {
       <div className="bg-black/40 backdrop-blur-md p-8 rounded-2xl flex flex-col items-center">
         <div className="w-24 h-24 rounded-full overflow-hidden mb-6">
           <img
-            src="https://imgur.com/3J6SAEk"
+            src="https://i.imgur.com/hinp3JX.jpeg"
             alt="Profile"
             className="w-full h-full object-cover"
           />
