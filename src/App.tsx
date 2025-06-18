@@ -17,7 +17,7 @@ const initialLinks: SocialLink[] = [
 
 const song: Song = {
   title: "Nuts",
-  artist: "LIL PEEP",
+  artist: "Lil Peep",
   url: "https://file.garden/aDNsMMyYJVC98rw8/Lil%20Peep%20-%20nuts%20(feat%20(mp3cut.net).mp3"
 };
 
