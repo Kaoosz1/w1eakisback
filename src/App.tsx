@@ -32,7 +32,7 @@ function App() {
 
   const backgroundStyle = showBackground
     ? {
-        backgroundImage: 'url(https://i.imgur.com/rryM0J8.jpeg)', // aq muda o fundo
+        backgroundImage: 'url(https://i.imgur.com/vciZA4o.jpeg)', // aq muda o fundo
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -62,7 +62,7 @@ function App() {
       <div className="bg-black/40 backdrop-blur-md p-8 rounded-2xl flex flex-col items-center">
         <div className="w-24 h-24 rounded-full overflow-hidden mb-6">
           <img
-            src="https://i.imgur.com/hinp3JX.jpeg"
+            src="https://i.imgur.com/1tJD3hb.jpeg"
             alt="Profile"
             className="w-full h-full object-cover"
           />
