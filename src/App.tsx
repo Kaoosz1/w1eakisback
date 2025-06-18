@@ -32,7 +32,7 @@ function App() {
 
   const backgroundStyle = showBackground
     ? {
-        backgroundImage: 'url(https://i.imgur.com/vciZA4o.jpeg)', // aq muda o fundo
+        backgroundImage: 'url(https://i.imgur.com/pg6ZnmM.jpeg)', // aq muda o fundo
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
