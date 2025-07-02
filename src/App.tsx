@@ -68,7 +68,7 @@ function App() {
           />
         </div>
         
-        <h1 className="text-2xl font-bold mb-2">wkkznfck</h1>
+        <h1 className="text-2xl font-bold mb-2">deadly eyes</h1>
         <p className="text-gray-400 text-sm mb-8">C (et al. variants) / Java / SQL - And knowledge in hacking (Pentest, OSINT)</p>
 
         <div className="flex justify-center gap-4 mb-8 flex-wrap max-w-sm">
