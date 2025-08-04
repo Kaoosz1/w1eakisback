@@ -25,7 +25,7 @@ export default function MusicPlayer({ song }: MusicPlayerProps) {
       <div className="flex items-center gap-2">
         <div className="w-10 h-10 rounded-full bg-white overflow-hidden">
           <img
-            src="https://i.imgur.com/lJn3VyJ.png"
+            src="https://i.scdn.co/image/ab67616d0000b273b168f3f58190fcb3ba32242c"
             alt="Album Cover"
             className="w-full h-full object-cover"
           />
