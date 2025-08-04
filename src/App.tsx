@@ -16,9 +16,9 @@ const initialLinks: SocialLink[] = [
   ];
 
 const song: Song = {
-  title: "Nuts",
-  artist: "Lil Peep",
-  url: "https://file.garden/aDNsMMyYJVC98rw8/Lil%20Peep%20-%20nuts%20(feat%20(mp3cut.net).mp3"
+  title: "Calculista 2",
+  artist: "MC Joãozinho VT",
+  url: "https://file.garden/aDNsMMyYJVC98rw8/ssstik.io_@novinho.lyrics_1754265456444%20(audio-extractor.net).mp3"
 };
 
 function App() {
